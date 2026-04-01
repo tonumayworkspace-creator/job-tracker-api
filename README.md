@@ -208,7 +208,7 @@ Authorization: Bearer <token>
 ## 🤝 Connect
 
 * LinkedIn: https://www.linkedin.com/in/tonumay/
-* GitHub: https://github.com/YOUR_USERNAME
+* GitHub: https://github.com/tonumayworkspace-creator/job-tracker-api
 
 ---
 
